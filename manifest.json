@@ -17,7 +17,7 @@
     "https://medium.com/*",
     "https://hackernoon.com/*"
   ],
-  "manifest_version": 2,
+  "manifest_version": 3,
   "browser_action": {
     "default_title": "Medium Dark"
   },
